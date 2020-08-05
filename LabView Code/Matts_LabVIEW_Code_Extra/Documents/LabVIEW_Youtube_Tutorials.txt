@@ -1,0 +1,17 @@
+Labview - Event Driven State Machine:
+
+https://www.youtube.com/watch?v=RuIN31rSO2k
+
+Labview - Clusters:
+
+https://www.youtube.com/watch?v=0NQSFc7Wcwc
+
+Labview - Adding VI's to the Palette:
+
+https://www.youtube.com/watch?v=tLXq5YEeYDs
+
+Labview - State Machines:
+
+Part 1: https://www.youtube.com/watch?v=vtw6HMwaTIQ
+
+Part 2: https://www.youtube.com/watch?v=1-PjIo9Ad4A 

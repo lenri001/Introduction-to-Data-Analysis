@@ -1,0 +1,17 @@
+@2:28pm curtailment to 40% 104kW
+@2:23pm curtailment to 100%
+@2:38pm curtaalment to 30% did not work
+@2:42pm reset
+@2:45 40% after reset did not work
+@2:46pm 40% 
+resetting gives error 56 during start of communication not during sent commands
+2:53 40%
+2:57 reset
+
+
+
+
+35.48
+35.76
+34.37
+
